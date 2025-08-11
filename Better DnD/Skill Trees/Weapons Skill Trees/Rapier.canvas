@@ -13,7 +13,7 @@
 		{
 			"id":"b2505760c0738300",
 			"type":"text",
-			"text":"Damage: (Adv: 2) 2D6    \nAP cost: 3                        \nRequirements: 2 perk points, Finesse >= 2\nHand: 1\nRange: R1\nSpecial Attributes: Finesse, Sharp",
+			"text":"AD: (Adv: 2) 2D6 for 3 dmg\nAP cost: 3                        \nRequirements: 2 perk points, Finesse >= 2\nHand: 1\nRange: R1\nSpecial Attributes: Finesse, Sharp",
 			"styleAttributes":{},
 			"x":-1460,
 			"y":0,
@@ -31,17 +31,6 @@
 			"height":160,
 			"color":"1"
 		},
-		{
-			"id":"27612d2ae330141a",
-			"type":"text",
-			"text":"Flourishing\n\nRequires: 2 perk points\n\nGain: +1 Charisma",
-			"styleAttributes":{},
-			"x":-410,
-			"y":680,
-			"width":260,
-			"height":160,
-			"color":"1"
-		},
 		{"id":"ec8def564568686e","type":"text","text":"Requires: 1 perk point\n\nGain: +1 Finesse","x":-410,"y":530,"width":250,"height":101},
 		{
 			"id":"0255f7ea3749701e",
@@ -54,12 +43,23 @@
 			"height":160,
 			"color":"1"
 		},
-		{"id":"02000d90c710198c","type":"text","text":"Calculated jab\n\nRequires: 3 perk points, technical >= 2\n\nAttack Modifier:  +3 to attacking rolls with rapiers","x":-1230,"y":260,"width":260,"height":180,"color":"2"},
-		{"id":"64c40b48a9851185","type":"text","text":"Requires: 1 perk point\n\nGain: + 1 to a  Soul trait ","x":-1230,"y":760,"width":260,"height":80},
-		{"id":"96c5eb354455ae69","type":"text","text":"Parry\n\nRequires: 3 perk points, Focus >= 2\n\nAbility: Using 2 RP, add your Finesse to your mitigation value against an enemy this turn","x":-840,"y":70,"width":320,"height":220,"color":"3"},
-		{"id":"b107a030369ceafc","type":"text","text":"Fancy Foot Work\n\nRequires: 3 perk points \n\nAbility: If you moved this turn and pay 1 AP, you gain 1 armor until the beginning of your next turn.","x":-840,"y":650,"width":320,"height":220,"color":"3"},
+		{"id":"02000d90c710198c","type":"text","text":"Calculated jab\n\nRequires: 3 perk points, technical >= 2\n\nAttack Modifier:  +2 damage when you crit with a rapier","x":-1230,"y":260,"width":260,"height":180,"color":"2"},
+		{"id":"96c5eb354455ae69","type":"text","text":"Parry\n\nRequires: 3 perk points, Focus >= 2\n\nAbility: Using 2 RP, add your Finesse to your evasion value against an enemy this turn","x":-840,"y":70,"width":320,"height":220,"color":"3"},
 		{"id":"85ed7ce4596e3eb5","type":"text","text":"Go for the throat\n\nRequires: 5 perk points, Parry, Fancy Foot Work\n\nAttack Modifier: The DD is 3D6 \n","x":-840,"y":350,"width":320,"height":231,"color":"2"},
-		{"id":"693a6273aa88cc62","type":"text","text":"Requires: 1 perk point\n\nGain: +1 Focus","x":-405,"y":304,"width":250,"height":92}
+		{"id":"693a6273aa88cc62","type":"text","text":"Requires: 1 perk point\n\nGain: +1 Focus","x":-405,"y":304,"width":250,"height":92},
+		{
+			"id":"27612d2ae330141a",
+			"type":"text",
+			"text":"Flourishing\n\nRequires: 2 perk points\n\nGain: +1 Charisma",
+			"styleAttributes":{},
+			"x":-410,
+			"y":680,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"b107a030369ceafc","type":"text","text":"Fancy Foot Work\n\nRequires: 3 perk points \n\nAbility: If you moved this turn and pay 1 AP, you gain +1 to your  armor value until the beginning of your next turn.","x":-840,"y":650,"width":320,"height":220,"color":"3"},
+		{"id":"64c40b48a9851185","type":"text","text":"Requires: 1 perk point\n\nGain: + 1 to a  Soul trait ","x":-1230,"y":760,"width":260,"height":80}
 	],
 	"edges":[
 		{"id":"bf064c76bb02a08f","fromNode":"0255f7ea3749701e","fromSide":"bottom","toNode":"64c40b48a9851185","toSide":"top"},

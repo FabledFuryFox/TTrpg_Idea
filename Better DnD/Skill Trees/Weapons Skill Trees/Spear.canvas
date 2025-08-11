@@ -13,7 +13,7 @@
 		{
 			"id":"4a46b00db577dbfb",
 			"type":"text",
-			"text":"Damage: 2D6 + 1      \nAP cost: 4                        \nRequirements: None\nHand: 2\nRange: +R1\nSpecial Attributes: Reach, Sharp",
+			"text":"AD: 2D6 for 3 dmg     \nAP cost: 4                        \nRequirements: None\nHand: 2\nRange: +R1\nSpecial Attributes: Reach, Sharp",
 			"styleAttributes":{},
 			"x":-320,
 			"y":-100,

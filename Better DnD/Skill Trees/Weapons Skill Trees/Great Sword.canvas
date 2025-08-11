@@ -13,7 +13,7 @@
 		{
 			"id":"3c54c480ff09052a",
 			"type":"text",
-			"text":"Damage:  2D8    \nAP cost: 4                        \nRequirements: Strength >= 2\nHand: 2\nRange: R1\nSpecial Attributes: Heavy, Sharp",
+			"text":"AD:  2D8 for 4 dmg  \nAP cost: 4                        \nRequirements: Strength >= 2\nHand: 2\nRange: R1\nSpecial Attributes: Heavy, Sharp",
 			"styleAttributes":{},
 			"x":-700,
 			"y":-520,

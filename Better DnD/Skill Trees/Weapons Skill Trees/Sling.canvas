@@ -13,7 +13,7 @@
 		{
 			"id":"4e1ea281b8150c3f",
 			"type":"text",
-			"text":"Damage: 1D20    \nAP cost: 5                        \nRequirements: Technique => 2, Physique >= 2\nHand: 1\nRange: R4\nSpecial Attributes: Range, Blunt, Advance",
+			"text":"AD: 1D20 for 7 dmg  \nAP cost: 5                        \nRequirements: Technique => 2, Physique >= 2\nHand: 1\nRange: R4\nSpecial Attributes: Range, Blunt, Advance",
 			"styleAttributes":{},
 			"x":-440,
 			"y":-200,

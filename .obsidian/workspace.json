@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Better DnD/Skill Trees/Weapons Skill Trees/Staff.canvas",
+                "file": "Better DnD/Skill Trees/Weapons Skill Trees/Rapier.canvas",
                 "viewState": {
-                  "x": 250,
-                  "y": 150,
-                  "zoom": -0.8362631140795442
+                  "x": -650,
+                  "y": 520,
+                  "zoom": -0.6323943307179933
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Staff"
+              "title": "Rapier"
             }
           }
         ]
@@ -173,23 +173,23 @@
   },
   "active": "3be957b2e36ddaf5",
   "lastOpenFiles": [
-    "Better DnD/Skill Trees/Weapons Skill Trees/- Rules with Weapons.md",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Sling.canvas",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Long Bow.canvas",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Short bow.canvas",
-    "Better DnD/Skill Trees/Utility Skill Trees/Frontiersman.canvas",
+    "Better DnD/How Combat Works.md",
+    "Better DnD/Skill Trees/Weapons Skill Trees/Staff.canvas",
+    "Better DnD/Skill Trees/Weapons Skill Trees/Unarmed.canvas",
+    "Better DnD/Skill Trees/Weapons Skill Trees/War Hammer.canvas",
     "Better DnD/Skill Trees/Utility Skill Trees/Thief.canvas",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Battle Axe.canvas",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Bastard Sword.canvas",
     "Better DnD/Skill Trees/Utility Skill Trees/Religious Devotion.canvas",
     "Better DnD/Skill Trees/Utility Skill Trees/Humanoid Specialist.canvas",
-    "Better DnD/Skill Trees/Utility Skill Trees/Alchemist.canvas",
-    "Better DnD/How Combat Works.md",
+    "Better DnD/Skill Trees/Martial Skill Trees/Cloak and Dagger.canvas",
+    "Better DnD/Skill Trees/Martial Skill Trees/Tactician.canvas",
+    "Better DnD/Skill Trees/Martial Skill Trees/Brute.canvas",
+    "Better DnD/Skill Trees/Racial Skill Trees/Kobald.canvas",
+    "Better DnD/Skill Trees/Weapons Skill Trees/- Rules with Weapons.md",
+    "Better DnD/Stats and Skills.md",
     "Better DnD/Skill Trees/Feats/Soul Adaptation.md",
     "Better DnD/Skill Trees/Feats/Physical Adaptation.md",
     "Better DnD/Skill Trees/Feats/Mental Adaption.md",
     "Better DnD/Skill Trees/Martial Skill Trees/Untitled.md",
-    "Better DnD/Stats and Skills.md",
     "Untitled"
   ]
 }

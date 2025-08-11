@@ -13,7 +13,7 @@
 		{
 			"id":"dafb9f0bdd32ac4f",
 			"type":"text",
-			"text":"Damage: 2D4 + 1\nAP cost: 3                        \nRequirements: None\nHand: 2\nRange: R1\nSpecial Attributes: Magic, Blunt",
+			"text":"AD: 2D4 for 2 dmg\nAP cost: 3                        \nRequirements: None\nHand: 2\nRange: R1\nSpecial Attributes: Magic, Blunt",
 			"styleAttributes":{},
 			"x":-340,
 			"y":-260,

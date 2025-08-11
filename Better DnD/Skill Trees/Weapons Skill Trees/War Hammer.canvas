@@ -24,7 +24,7 @@
 		{
 			"id":"99d3c095d59ceb8d",
 			"type":"text",
-			"text":"Damage: 1D12 + 7\nAP cost: 4                        \nRequirements: Physique >= 3, Will >= 2\nHand: 2\nRange: R1\nSpecial Attributes: Heavy, Blunt",
+			"text":"AD: 1D12 for 7 dmg\nAP cost: 4                        \nRequirements: Physique >= 3, Will >= 2\nHand: 2\nRange: R1\nSpecial Attributes: Heavy, Blunt",
 			"styleAttributes":{},
 			"x":-360,
 			"y":-40,
@@ -63,16 +63,6 @@
 			"height":100
 		},
 		{
-			"id":"eea0ca750d9bb396",
-			"type":"text",
-			"text":"Requires: 1 perk point\n\nGain: +1 Charisma",
-			"styleAttributes":{},
-			"x":240,
-			"y":560,
-			"width":260,
-			"height":100
-		},
-		{
 			"id":"5cc730530a415122",
 			"type":"text",
 			"text":"Thunder Clap\n\nRequires: 4 perk points\n\nAbility: Using A surge dice and 4 APs, smash the ground causing an area of effect in front of you (up to -R2, cone), dealing 2D8 + SD",
@@ -106,17 +96,6 @@
 			"color":"1"
 		},
 		{
-			"id":"2ff50743d0f1b9aa",
-			"type":"text",
-			"text":"Parry this casual\n\nRequires: 3 perk points\n\nAttack Modifier: If your lowest dice rolled is 5 or higher, the target of your attack has -5 mitigation",
-			"styleAttributes":{},
-			"x":-330,
-			"y":700,
-			"width":420,
-			"height":200,
-			"color":"2"
-		},
-		{
 			"id":"f7c31815ea224690",
 			"type":"text",
 			"text":"Forceful Strike\n\nRequires: 3 perk points\n\nAttack Modifier: its cost -1 AP to attack with the War Hammer",
@@ -137,6 +116,27 @@
 			"width":260,
 			"height":160,
 			"color":"1"
+		},
+		{
+			"id":"eea0ca750d9bb396",
+			"type":"text",
+			"text":"Requires: 1 perk point\n\nGain: +1 Charisma",
+			"styleAttributes":{},
+			"x":240,
+			"y":560,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"2ff50743d0f1b9aa",
+			"type":"text",
+			"text":"Parry this casual\n\nRequires: 4 perk points\n\nAttack Modifier: If your lowest AD rolled is 9 or higher, the target of your attack has -2 to the value of his DD",
+			"styleAttributes":{},
+			"x":-330,
+			"y":700,
+			"width":420,
+			"height":200,
+			"color":"2"
 		}
 	],
 	"edges":[

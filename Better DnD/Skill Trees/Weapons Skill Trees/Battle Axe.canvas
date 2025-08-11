@@ -24,7 +24,7 @@
 		{
 			"id":"a5bbc1c7c99f8e7f",
 			"type":"text",
-			"text":"Break them\n\nRequires: 3 perk points\n\nAttack Modifier: Attack Dice ignore armor if they're a one",
+			"text":"Break them\n\nRequires: 3 perk points\n\nGain: +1 Physique",
 			"styleAttributes":{},
 			"x":-760,
 			"y":-100,
@@ -46,7 +46,7 @@
 		{
 			"id":"829ba221023dc737",
 			"type":"text",
-			"text":"Damage: 2D2 + 6  \nAP cost: 3                        \nRequirements: None\nHand: 1\nRange: R1\nSpecial Attributes:  Sharp",
+			"text":"AD: 2D2 for 6 dmg\nAP cost: 3                        \nRequirements: None\nHand: 1\nRange: R1\nSpecial Attributes:  Sharp",
 			"styleAttributes":{},
 			"x":-1560,
 			"y":-200,

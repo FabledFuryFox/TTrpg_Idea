@@ -13,7 +13,7 @@
 		{
 			"id":"3dca01e41df0d51c",
 			"type":"text",
-			"text":"Damage: 1D4 + 1D8     \nAP cost: 3                        \nRequirements: None\nHand: 1\nRange: R1",
+			"text":"AD: 1D4 + 1D8 for 3 dmg   \nAP cost: 3                        \nRequirements: None\nHand: 1\nRange: R1",
 			"styleAttributes":{},
 			"x":-300,
 			"y":-220,

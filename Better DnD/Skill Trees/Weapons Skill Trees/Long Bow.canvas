@@ -13,7 +13,7 @@
 		{
 			"id":"43b74dcac9ea4b93",
 			"type":"text",
-			"text":"Damage: 1D10 + 3\nAP cost: 4                        \nRequirements: 2 perk points, Physique >= 2\nHand: 2\nRange: R5",
+			"text":"AD: 1D10 for 5 dmg\nAP cost: 4                        \nRequirements: 2 perk points, Physique >= 2\nHand: 2\nRange: R5",
 			"styleAttributes":{},
 			"x":-360,
 			"y":-240,
@@ -74,28 +74,6 @@
 			"height":100
 		},
 		{
-			"id":"eace467b6b961ced",
-			"type":"text",
-			"text":"Requires: 2 perk points\n\nGain: +1 Finesse\n\n",
-			"styleAttributes":{},
-			"x":715,
-			"y":20,
-			"width":380,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"a9654ef133816e23",
-			"type":"text",
-			"text":"Armor Piercing\n\nRequires: 2 perk points, Physique >= 3\n\nAttack Modifier: Instead of +3 to damage dice add your strength modifier instead.\n",
-			"styleAttributes":{},
-			"x":715,
-			"y":200,
-			"width":380,
-			"height":180,
-			"color":"2"
-		},
-		{
 			"id":"ed8281dd31fa243b",
 			"type":"text",
 			"text":"Rain of Terror\n\nRequires: 3 perk points\n\nAbility Modifier: Any Enemy caught in the area of effect receives the Terror debuff",
@@ -137,6 +115,28 @@
 			"y":450,
 			"width":260,
 			"height":100
+		},
+		{
+			"id":"eace467b6b961ced",
+			"type":"text",
+			"text":"Requires: 2 perk points\n\nGain: +1 Finesse\n\n",
+			"styleAttributes":{},
+			"x":715,
+			"y":20,
+			"width":380,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"a9654ef133816e23",
+			"type":"text",
+			"text":"Armor Piercing\n\nRequires: 2 perk points, Physique >= 3\n\nAttack Modifier: Instead of 5 for damage,  add your strength modifier +2 instead.\n",
+			"styleAttributes":{},
+			"x":715,
+			"y":200,
+			"width":380,
+			"height":180,
+			"color":"2"
 		}
 	],
 	"edges":[

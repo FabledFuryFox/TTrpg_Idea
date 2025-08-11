@@ -11,16 +11,6 @@
 			"label":"Short Bow"
 		},
 		{
-			"id":"5c3f0f70228b985d",
-			"type":"text",
-			"text":"Damage: (adv 3) 2D4 \nAP cost: 3                       \nRequirements: Reflex >= 2\nHand: 2\nRange: R4",
-			"styleAttributes":{},
-			"x":-640,
-			"y":-220,
-			"width":300,
-			"height":160
-		},
-		{
 			"id":"59d8db919768b4b8",
 			"type":"text",
 			"text":"3 Arrows hand Technique\n\nRequires: 5 perk points, Focus >= 3 and Technical >= 3\n\nAbility: Using 3 AP, prepare 3 arrows in hand. When prepped: use 1 AP to launch all 3 arrows in a quick secession towards enemies in front of you.",
@@ -83,6 +73,16 @@
 			"width":360,
 			"height":180,
 			"color":"4"
+		},
+		{
+			"id":"5c3f0f70228b985d",
+			"type":"text",
+			"text":"AD: (adv 3) 2D4 for 2 dmg\nAP cost: 3                       \nRequirements: Reflex >= 2\nHand: 2\nRange: R4",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-220,
+			"width":300,
+			"height":160
 		}
 	],
 	"edges":[

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"abc5fd834c30ad0d","type":"group","x":-188,"y":-87,"width":908,"height":767,"label":"Great Axe"},
-		{"id":"3ebca1bcae2796c2","type":"text","text":"Damage: (adv 1) 1D12 + Physique    \nAP cost: 4                        \nRequirements: Strength >= 3\nHand: 2\nRange: R1\nSpecial Attributes: Heavy, Sharp","x":-188,"y":-87,"width":308,"height":187}
+		{"id":"3ebca1bcae2796c2","type":"text","text":"AD: 1D12 for var(Physique) dmg    \nAP cost: 4                        \nRequirements: Strength >= 3\nHand: 2\nRange: R1\nSpecial Attributes: Heavy, Sharp","x":-188,"y":-87,"width":308,"height":187}
 	],
 	"edges":[]
 }
