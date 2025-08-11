@@ -1,0 +1,59 @@
+{
+	"nodes":[
+		{
+			"id":"060a0068f55b50e5",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-1560,
+			"y":-200,
+			"width":1360,
+			"height":1180,
+			"label":"Battle Axe"
+		},
+		{
+			"id":"8d202673b0e84d4b",
+			"type":"text",
+			"text":"Hack and Slash them\n\nRequires: 2 perk points\n\nGain: +1 Will",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":320,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{
+			"id":"a5bbc1c7c99f8e7f",
+			"type":"text",
+			"text":"Break them\n\nRequires: 3 perk points\n\nAttack Modifier: Attack Dice ignore armor if they're a one",
+			"styleAttributes":{},
+			"x":-760,
+			"y":-100,
+			"width":260,
+			"height":180,
+			"color":"1"
+		},
+		{
+			"id":"e49ff855cc807e53",
+			"type":"text",
+			"text":"Throw them\n\nRequires: 2 perk points\n\nGain: +1 Finesse ",
+			"styleAttributes":{},
+			"x":-760,
+			"y":680,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{
+			"id":"829ba221023dc737",
+			"type":"text",
+			"text":"Damage: 2D2 + 6  \nAP cost: 3                        \nRequirements: None\nHand: 1\nRange: R1\nSpecial Attributes:  Sharp",
+			"styleAttributes":{},
+			"x":-1560,
+			"y":-200,
+			"width":340,
+			"height":180
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

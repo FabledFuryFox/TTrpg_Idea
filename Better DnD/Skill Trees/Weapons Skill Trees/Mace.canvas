@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{
+			"id":"6af7c6aa2c4a22cb",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-200,
+			"width":1720,
+			"height":1200,
+			"label":"Mace"
+		},
+		{
+			"id":"a79d733cc1f31f4e",
+			"type":"text",
+			"text":"Damage:  1D8 + 4\nAP cost: 3                        \nRequirements: Physique >= 1\nHand: 1\nRange: R1\nSpecial Attributes: Blunt",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-200,
+			"width":300,
+			"height":180
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

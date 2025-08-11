@@ -1,0 +1,48 @@
+{
+	"nodes":[
+		{
+			"id":"e4ebd31810cfa386",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-520,
+			"width":1180,
+			"height":860,
+			"label":"Great Sword"
+		},
+		{
+			"id":"3c54c480ff09052a",
+			"type":"text",
+			"text":"Damage:  2D8    \nAP cost: 4                        \nRequirements: Strength >= 2\nHand: 2\nRange: R1\nSpecial Attributes: Heavy, Sharp",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-520,
+			"width":280,
+			"height":200
+		},
+		{
+			"id":"e7a88a3919bb012c",
+			"type":"text",
+			"text":"Grand Omen\n\nRequires: 2 perk points\n\nGain: +1 Will",
+			"styleAttributes":{},
+			"x":60,
+			"y":-380,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{
+			"id":"451dd41e46abf1f0",
+			"type":"text",
+			"text":"Killing Blow\n\nRequires: 2 perk points\n\nGain: +1 Physique",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-380,
+			"width":260,
+			"height":160,
+			"color":"1"
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

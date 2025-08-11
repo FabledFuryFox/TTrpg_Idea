@@ -1,0 +1,47 @@
+{
+	"nodes":[
+		{
+			"id":"f30a504f65e68ff3",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-220,
+			"width":1180,
+			"height":820,
+			"label":"Bastard Sword"
+		},
+		{
+			"id":"3dca01e41df0d51c",
+			"type":"text",
+			"text":"Damage: 1D4 + 1D8     \nAP cost: 3                        \nRequirements: None\nHand: 1\nRange: R1",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-220,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"a40b9333ec32ed5d",
+			"type":"text",
+			"text":"Skirmish",
+			"styleAttributes":{},
+			"x":420,
+			"y":-80,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"61a397ec8aad7602",
+			"type":"text",
+			"text":"Sword and Shield",
+			"styleAttributes":{},
+			"x":-170,
+			"y":120,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

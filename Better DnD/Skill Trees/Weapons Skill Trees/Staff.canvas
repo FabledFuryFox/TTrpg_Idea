@@ -1,0 +1,49 @@
+{
+	"nodes":[
+		{
+			"id":"07a01e1da96015da",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-260,
+			"width":1180,
+			"height":820,
+			"label":"Staff"
+		},
+		{
+			"id":"dafb9f0bdd32ac4f",
+			"type":"text",
+			"text":"Damage: 2D4 + 1\nAP cost: 3                        \nRequirements: None\nHand: 2\nRange: R1\nSpecial Attributes: Magic, Blunt",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-260,
+			"width":320,
+			"height":180
+		},
+		{
+			"id":"23136e272486f017",
+			"type":"text",
+			"text":"Channeling\n\nRequires: 2 perk points\n\nGain: +1 Focus",
+			"styleAttributes":{},
+			"x":540,
+			"y":-170,
+			"width":250,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"f8c94d675acfb91a","type":"text","text":"Breaking Legs\n\nRequires: 2 perk points\n\nGain: +1 Physique\n\n","x":540,"y":320,"width":250,"height":147,"color":"1"},
+		{
+			"id":"da40b61868106fcb",
+			"type":"text",
+			"text":"Mana Surge\n\nRequires: 2 perk points\n\nGain: +1 Technical",
+			"styleAttributes":{},
+			"x":-280,
+			"y":80,
+			"width":260,
+			"height":160,
+			"color":"1"
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

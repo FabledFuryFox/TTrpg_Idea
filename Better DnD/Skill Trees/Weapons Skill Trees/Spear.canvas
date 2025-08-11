@@ -1,0 +1,58 @@
+{
+	"nodes":[
+		{
+			"id":"39ad8c1414c01d30",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-100,
+			"width":1360,
+			"height":1020,
+			"label":"Spear"
+		},
+		{
+			"id":"4a46b00db577dbfb",
+			"type":"text",
+			"text":"Damage: 2D6 + 1      \nAP cost: 4                        \nRequirements: None\nHand: 2\nRange: +R1\nSpecial Attributes: Reach, Sharp",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-100,
+			"width":260,
+			"height":200
+		},
+		{"id":"566c80fd6409a77c","type":"text","text":"Quick Thrusts\n\nRequires: 2 perk points\n\nGain: +1 Will","x":280,"y":440,"width":250,"height":155,"color":"1"},
+		{"id":"853a79941723a1a4","type":"text","text":"Requires: 1 perk point\n\nGain: +1 Focus","x":280,"y":675,"width":250,"height":90},
+		{"id":"d9e4bf46b6112e5c","type":"text","text":"Surge of Determination\n\nRequires: 3 perk points, Will >= 2\n\nAttack Modifier: -1 AP to all spear attacks","x":245,"y":160,"width":320,"height":210,"color":"2"},
+		{
+			"id":"13583860c310197c",
+			"type":"text",
+			"text":"Hold the Line\n\nRequires: 2 perk points\n\nGain: +1 Sense",
+			"styleAttributes":{},
+			"x":680,
+			"y":0,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"309f476a283995ac","type":"text","text":"Shield Ready\n\nRequires: 3 perk points, Physique >= 2\n\nPassive Ability: You may use a shield as though you have an empty hand ","x":-160,"y":160,"width":310,"height":210,"color":"5"},
+		{
+			"id":"439eb3c489db5e24",
+			"type":"text",
+			"text":"Phalanx \n\nRequires: +2 perk points\n\nGain: +1 Physique",
+			"styleAttributes":{},
+			"x":-135,
+			"y":440,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"67281d4c75163164","type":"text","text":"Requires: 1 perk points\n\nGain: + 1 Physical","x":-135,"y":675,"width":260,"height":90}
+	],
+	"edges":[
+		{"id":"38ee695972f9170a","fromNode":"439eb3c489db5e24","fromSide":"bottom","toNode":"67281d4c75163164","toSide":"top"},
+		{"id":"b3a2bc90f64336a1","fromNode":"566c80fd6409a77c","fromSide":"bottom","toNode":"853a79941723a1a4","toSide":"top"},
+		{"id":"d7f27c6ec3efe5a8","fromNode":"439eb3c489db5e24","fromSide":"top","toNode":"309f476a283995ac","toSide":"bottom"},
+		{"id":"d6ebe358ce55eed6","fromNode":"566c80fd6409a77c","fromSide":"top","toNode":"d9e4bf46b6112e5c","toSide":"bottom"}
+	],
+	"metadata":{}
+}

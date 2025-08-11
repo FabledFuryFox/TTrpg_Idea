@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"3fd58ccfe3b38eec","x":-235,"y":-110,"width":435,"height":270,"color":"5","type":"text","text":"Quick Reaction\n\nRequires: 5 perk points, Focus >= 3, Finesse >= 3\n\nAbility Passive: Gain +1 RP"}
+	],
+	"edges":[]
+}
