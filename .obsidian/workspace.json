@@ -11,17 +11,24 @@
             "id": "3be957b2e36ddaf5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Better DnD/Skill Trees/Weapons Skill Trees/Rapier.canvas",
-                "viewState": {
-                  "x": -650,
-                  "y": 520,
-                  "zoom": -0.6323943307179933
+                "file": "Character Details/Equipability and Carrying capacity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Rapier"
+              "icon": "lucide-file",
+              "title": "Equipability and Carrying capacity"
             }
           }
         ]
@@ -97,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better DnD/Skill Trees/Utility Skill Trees/Humanoid Specialist.canvas",
+                "file": "Better DnD/Stats and Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Humanoid Specialist"
+              "title": "Backlinks for Stats and Skills"
             }
           },
           {
@@ -173,7 +180,11 @@
   },
   "active": "3be957b2e36ddaf5",
   "lastOpenFiles": [
+    "Better DnD/Stats and Skills.md",
     "Better DnD/How Combat Works.md",
+    "Character Details/Equipability and Carrying capacity.md",
+    "Better DnD/Skill Trees/Weapons Skill Trees/Rapier.canvas",
+    "Character Details",
     "Better DnD/Skill Trees/Weapons Skill Trees/Staff.canvas",
     "Better DnD/Skill Trees/Weapons Skill Trees/Unarmed.canvas",
     "Better DnD/Skill Trees/Weapons Skill Trees/War Hammer.canvas",
@@ -183,13 +194,10 @@
     "Better DnD/Skill Trees/Martial Skill Trees/Cloak and Dagger.canvas",
     "Better DnD/Skill Trees/Martial Skill Trees/Tactician.canvas",
     "Better DnD/Skill Trees/Martial Skill Trees/Brute.canvas",
-    "Better DnD/Skill Trees/Racial Skill Trees/Kobald.canvas",
     "Better DnD/Skill Trees/Weapons Skill Trees/- Rules with Weapons.md",
-    "Better DnD/Stats and Skills.md",
     "Better DnD/Skill Trees/Feats/Soul Adaptation.md",
     "Better DnD/Skill Trees/Feats/Physical Adaptation.md",
     "Better DnD/Skill Trees/Feats/Mental Adaption.md",
-    "Better DnD/Skill Trees/Martial Skill Trees/Untitled.md",
-    "Untitled"
+    "Better DnD/Skill Trees/Martial Skill Trees/Untitled.md"
   ]
 }
