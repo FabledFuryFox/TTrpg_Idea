@@ -23,18 +23,7 @@
 		{"id":"566c80fd6409a77c","type":"text","text":"Quick Thrusts\n\nRequires: 2 perk points\n\nGain: +1 Will","x":280,"y":440,"width":250,"height":155,"color":"1"},
 		{"id":"853a79941723a1a4","type":"text","text":"Requires: 1 perk point\n\nGain: +1 Focus","x":280,"y":675,"width":250,"height":90},
 		{"id":"d9e4bf46b6112e5c","type":"text","text":"Surge of Determination\n\nRequires: 3 perk points, Will >= 2\n\nAttack Modifier: -1 AP to all spear attacks","x":245,"y":160,"width":320,"height":210,"color":"2"},
-		{
-			"id":"13583860c310197c",
-			"type":"text",
-			"text":"Hold the Line\n\nRequires: 2 perk points\n\nGain: +1 Sense",
-			"styleAttributes":{},
-			"x":680,
-			"y":0,
-			"width":260,
-			"height":160,
-			"color":"1"
-		},
-		{"id":"309f476a283995ac","type":"text","text":"Shield Ready\n\nRequires: 3 perk points, Physique >= 2\n\nPassive Ability: You may use a shield as though you have an empty hand ","x":-160,"y":160,"width":310,"height":210,"color":"5"},
+		{"id":"309f476a283995ac","type":"text","text":"Shield Ready\n\nRequires: 3 perk points, Physique >= 2\n\nPassive Ability: You may use a shield while wielding a spear","x":-160,"y":160,"width":310,"height":210,"color":"5"},
 		{
 			"id":"439eb3c489db5e24",
 			"type":"text",
@@ -46,13 +35,26 @@
 			"height":160,
 			"color":"1"
 		},
-		{"id":"67281d4c75163164","type":"text","text":"Requires: 1 perk points\n\nGain: + 1 Physical","x":-135,"y":675,"width":260,"height":90}
+		{"id":"67281d4c75163164","type":"text","text":"Requires: 1 perk points\n\nGain: + 1 Physical","x":-135,"y":675,"width":260,"height":90},
+		{
+			"id":"13583860c310197c",
+			"type":"text",
+			"text":"Hold the Line\n\nRequires: 2 perk points\n\nGain: +1 Sense",
+			"styleAttributes":{},
+			"x":660,
+			"y":-60,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"9aa17787e3b7a88b","type":"text","text":"Skewer\n\nRequires: 3 perk points\n\nAttack Modifier: If an enemy approaches from the front and into your range with the spear, it takes -2 RP to attack them","x":630,"y":160,"width":320,"height":210,"color":"2"}
 	],
 	"edges":[
 		{"id":"38ee695972f9170a","fromNode":"439eb3c489db5e24","fromSide":"bottom","toNode":"67281d4c75163164","toSide":"top"},
 		{"id":"b3a2bc90f64336a1","fromNode":"566c80fd6409a77c","fromSide":"bottom","toNode":"853a79941723a1a4","toSide":"top"},
 		{"id":"d7f27c6ec3efe5a8","fromNode":"439eb3c489db5e24","fromSide":"top","toNode":"309f476a283995ac","toSide":"bottom"},
-		{"id":"d6ebe358ce55eed6","fromNode":"566c80fd6409a77c","fromSide":"top","toNode":"d9e4bf46b6112e5c","toSide":"bottom"}
+		{"id":"d6ebe358ce55eed6","fromNode":"566c80fd6409a77c","fromSide":"top","toNode":"d9e4bf46b6112e5c","toSide":"bottom"},
+		{"id":"d5be4406d2aa2080","fromNode":"13583860c310197c","fromSide":"bottom","toNode":"9aa17787e3b7a88b","toSide":"top"}
 	],
 	"metadata":{}
 }

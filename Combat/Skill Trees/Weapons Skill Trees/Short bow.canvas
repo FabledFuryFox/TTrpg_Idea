@@ -13,7 +13,7 @@
 		{
 			"id":"59d8db919768b4b8",
 			"type":"text",
-			"text":"3 Arrows hand Technique\n\nRequires: 5 perk points, Focus >= 3 and Technical >= 3\n\nAbility: Using 3 AP, prepare 3 arrows in hand. When prepped: use 1 AP to launch all 3 arrows in a quick secession towards enemies in front of you.",
+			"text":"3 Arrows hand Technique\n\nRequires: 5 perk points, Focus >= 2 and Technical >= 2\n\nAbility: Using 3 AP, prepare 3 arrows in hand. When prepped: use 1 AP to launch all 3 arrows in a quick secession towards enemies in front of you.",
 			"styleAttributes":{},
 			"x":-600,
 			"y":100,
@@ -77,7 +77,7 @@
 		{
 			"id":"5c3f0f70228b985d",
 			"type":"text",
-			"text":"AD: (adv 3) 2D4 for 2 dmg\nAP cost: 3                       \nRequirements: Reflex >= 2\nHand: 2\nRange: R4",
+			"text":"AD: (adv 3) 2D4 for 2 dmg\nAP cost: 3                       \nRequirements: Finesse >= 2\nHand: 2\nRange: R4",
 			"styleAttributes":{},
 			"x":-640,
 			"y":-220,

@@ -39,7 +39,8 @@
 			"x":-170,
 			"y":120,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[],

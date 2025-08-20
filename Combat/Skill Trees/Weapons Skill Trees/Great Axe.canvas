@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"abc5fd834c30ad0d","type":"group","x":-188,"y":-87,"width":1388,"height":1047,"label":"Great Axe"},
+		{"id":"3ebca1bcae2796c2","type":"text","text":"AD: 1D12 for var(Physique) + 1 dmg    \nAP cost: 4                        \nRequirements: Physique >= 3\nHand: 2\nRange: +R1\nSpecial Attributes: Heavy, Sharp","x":-188,"y":-87,"width":308,"height":187},
+		{"id":"708a90e4eb95c83d","type":"text","text":"Requires: 1 perk point\n\nGain: +1 Physical Trait","x":230,"y":184,"width":276,"height":96},
+		{"id":"2b1d046ea8c17b5a","type":"text","text":"Brutality\n\nRequires: 3 perk points\n\nGain: +2 Physique","x":-160,"y":184,"width":310,"height":160,"color":"1"},
+		{"id":"cc3c6271d052f6f7","type":"text","text":"Death Blows\n\nRequires: 3 perk points\n\nAttack Modifier: the base damage done by the Great Axe will be var(Physique) + var(Will)","x":216,"y":344,"width":304,"height":275,"color":"2"},
+		{"id":"e0cfd4bfc38c5ce1","type":"text","text":"Overkill\n\nRequires: 3 perk points, Sense >= 1\n\nAbility: Whenever you kill an enemy with a Great Axe, you can expand 1 AP point to attack another enemy within range. ","x":-160,"y":396,"width":310,"height":223,"color":"3"},
+		{"id":"edde560192894b48","type":"text","text":"Rage Cage\n\nRequires: 2 perk points\n\nGain: +1 Sense","x":230,"y":-64,"width":276,"height":164,"color":"1"}
+	],
+	"edges":[
+		{"id":"423b466dafa324f0","fromNode":"2b1d046ea8c17b5a","fromSide":"bottom","toNode":"e0cfd4bfc38c5ce1","toSide":"top"},
+		{"id":"0f6878bb4de719a1","fromNode":"edde560192894b48","fromSide":"bottom","toNode":"708a90e4eb95c83d","toSide":"top"},
+		{"id":"69e14386f84dc745","fromNode":"708a90e4eb95c83d","fromSide":"bottom","toNode":"cc3c6271d052f6f7","toSide":"top"}
+	]
+}

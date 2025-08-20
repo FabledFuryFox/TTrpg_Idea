@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Details/Equipability and Carrying capacity.md",
+                "file": "Combat/How Combat Works.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Equipability and Carrying capacity"
+              "title": "How Combat Works"
             }
           }
         ]
@@ -63,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exhort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,21 +172,21 @@
   },
   "active": "3be957b2e36ddaf5",
   "lastOpenFiles": [
-    "Better DnD/Stats and Skills.md",
-    "Better DnD/How Combat Works.md",
     "Character Details/Equipability and Carrying capacity.md",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Rapier.canvas",
+    "Combat/How Combat Works.md",
+    "Combat/Skill Trees/Weapons Skill Trees/Rapier.canvas",
+    "Combat/Skill Trees/Weapons Skill Trees/Battle Axe.canvas",
+    "Combat/Skill Trees/Weapons Skill Trees/Great Axe.canvas",
+    "Combat/Skill Trees/Weapons Skill Trees/Dagger.canvas",
+    "Combat/Skill Trees/Weapons Skill Trees/Bastard Sword.canvas",
+    "Combat/Skill Trees/Weapons Skill Trees/Great Sword.canvas",
+    "Combat/Skill Trees/Weapons Skill Trees/Long Bow.canvas",
+    "Combat/Skill Trees/Utility Skill Trees/Thief.canvas",
+    "Combat/Skill Trees/Martial Skill Trees/Shadow Style.canvas",
+    "Combat/Skill Trees/Martial Skill Trees/God Style.canvas",
+    "Character Details/Stats and Skills.md",
     "Character Details",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Staff.canvas",
-    "Better DnD/Skill Trees/Weapons Skill Trees/Unarmed.canvas",
-    "Better DnD/Skill Trees/Weapons Skill Trees/War Hammer.canvas",
-    "Better DnD/Skill Trees/Utility Skill Trees/Thief.canvas",
-    "Better DnD/Skill Trees/Utility Skill Trees/Religious Devotion.canvas",
-    "Better DnD/Skill Trees/Utility Skill Trees/Humanoid Specialist.canvas",
-    "Better DnD/Skill Trees/Martial Skill Trees/Cloak and Dagger.canvas",
-    "Better DnD/Skill Trees/Martial Skill Trees/Tactician.canvas",
-    "Better DnD/Skill Trees/Martial Skill Trees/Brute.canvas",
-    "Better DnD/Skill Trees/Weapons Skill Trees/- Rules with Weapons.md",
+    "Combat/Skill Trees/Weapons Skill Trees/- Rules with Weapons.md",
     "Better DnD/Skill Trees/Feats/Soul Adaptation.md",
     "Better DnD/Skill Trees/Feats/Physical Adaptation.md",
     "Better DnD/Skill Trees/Feats/Mental Adaption.md",

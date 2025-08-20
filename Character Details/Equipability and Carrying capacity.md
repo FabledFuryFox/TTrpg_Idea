@@ -8,11 +8,11 @@ Rule Sets for equipment:
 
 Mandatory:
 	Back Slot:
-		This slot is the only one that can carry something with the large attribute. Usually the slot is reserved for a heavy weapon or travelers backpack.
+		This slot is the only one with the large attribute. Usually the slot is reserved for a heavy weapon or travelers backpack.
 	Belt Slots
 		The belt contains multiple slots and can be customized. They have:
 		>2 medium sized slots, meant for weapon carrying 
-		>3 small sized slots, these are functionally the most diversely used  slots and are useful to have prepared when in combat. It effectively lessens the amount of AP needed to use an item stored in one of the slots. The reduction is 2 AP to a minimum required 1 AP used. For example, to drink a potion, it usually takes 2 AP to do that while its in your pack, however, if the potion is placed in one of the belt slots, it only takes one. 
+		>3 small sized slots, these are functionally the most diversely used slots and are useful to have prepared when in combat. It effectively lessens the amount of AP needed to use an item stored in one of the slots. The reduction is 2 AP to a minimum required 1 AP used. For example, to drink a potion, it usually takes 2 AP to do that while its in your pack, however, if the potion is placed in one of the belt slots, it only takes 1 AP. 
 
 
 Optional:
